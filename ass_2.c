@@ -2,4 +2,5 @@
 #include<stdlib.h>
 int main(){
   print("Hello World");
+  print("hey");
 }
